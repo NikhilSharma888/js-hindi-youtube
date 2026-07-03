@@ -26,3 +26,16 @@ let stringNumber = String(someNumber)
 
 console.log(stringNumber);
 console.log(typeof someNumber);
+
+// ************************************* Operations ********************************
+
+let value = 3 
+let NegValue = -value
+console.log(NegValue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**3); // 2 to the power 2
+console.log(2%3); // remainder
+console.log(2/3); // division
